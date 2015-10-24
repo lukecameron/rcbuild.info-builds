@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "HoverThings/\"Flip-FPV\"-Frame-(Black)",
+    "esc": "Turnigy/Plush-30amp-Speed-Controller",
+    "motor": "Turnigy/2627-Brushless-Outrunner-1200kv",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "HobbyKing/Propeller-8x4.5-Black-(CW-CCW)-(2pcs)"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy/3000mAh-3S-40C-Lipo-Pack"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D8R-XP",
+    "flightcam": "Fatshark",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
